@@ -68,7 +68,7 @@ class DATABASE_CONFIG {
       'persistent' => false,
       'host'       => getenv('DB_HOST'),
       'login'      => getenv('DB_USER'),
-      'password'   => getenv('DB_PASSWORD'),
+      'password'   => getenv('DB_PASS'),
       'database'   => getenv('DB_NAME'),
       'prefix'     => '',
       'encoding'   => 'utf8',
