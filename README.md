@@ -1,3 +1,13 @@
+Setup on Heroku
+===============
+
+![Heroku](http://logos.heroku.com/images/heroku-logo-light-234x60.png)
+
+Read my article [jisaacks.com/setup-cakephp-app-on-heroku](http://www.jisaacks.com/setup-cakephp-app-on-heroku)
+
+
+---------------------------
+
 CakePHP
 =======
 
